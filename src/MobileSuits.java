@@ -1,6 +1,6 @@
 package mobilesuits;
 
-public abstract class MobileSuits{
-	abstract String getName();
-	abstract void attack();
+abstract class MobileSuits{
+	abstract public String getName();
+	abstract public void attack();
 }

@@ -2,7 +2,7 @@ package mobilesuits;
 
 public class Gundam extends MobileSuits{
 	
-	public String gatName(){
+	public String getName(){
 		return "Gundam";
 	}
 	
